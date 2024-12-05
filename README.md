@@ -1,4 +1,5 @@
 <h3>Técnico de Gestão e Programação de Sistemas Informáticos</h3>
 <p>Gonçalo Silva</p>
-Este programa foi feito em sala de aula, feito para gerir uma loja de reparações, por exemplo uma loja que arranja computadores.
+Este programa foi desenvolvido em contexto de sala de aula,com  o objetivo de apresentar uma plantaforma de gestão de pedidos, atribuindo 3 níveis de prioridades (Pendente/Em andamento/Concluído).
+O códigos foi desenvolvido em python, dando destaque á utilização de funções.
 <h6>OFICINA, Escola Profissional &copy; 2024</h6>
