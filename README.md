@@ -1,4 +1,4 @@
-<h3>Técnico de Gestão e Programação de Sistemas Informáticos</h3>
+<h3>PROGRAMA PARA LOJA DE REPARAÇÕES</h3>
 <p>Gonçalo Silva</p>
 Este programa foi desenvolvido em contexto de sala de aula,com  o objetivo de apresentar uma plantaforma de gestão de pedidos, atribuindo 3 níveis de prioridades (Pendente/Em andamento/Concluído).
 O códigos foi desenvolvido em python, dando destaque á utilização de funções.
